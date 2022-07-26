@@ -1,3 +1,3 @@
-# AutoScout24 Scraper
+# Used car price prediction
 
-Scraping on autoscout24.com
+Data mining and machine learning project
